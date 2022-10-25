@@ -1,0 +1,9 @@
+payload:
+  # > Game
+  - DOMAIN-SUFFIX,lb-web-tmg-ncsa.ubisoft.com
+  - DOMAIN-SUFFIX,api-ubiservices.ubi.com
+  - DOMAIN-SUFFIX,lb-upc-dmx.ubisoft.com
+  - DOMAIN-SUFFIX,lb-upc-stt.ubisoft.com
+  - DOMAIN-SUFFIX,ubi.com
+  - DOMAIN-KEYWORD,ubisoft
+  - DOMAIN-SUFFIX,ubisoft.com
